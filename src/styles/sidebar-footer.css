@@ -211,3 +211,7 @@ h1 {
     cursor: pointer;
     flex-shrink: 0;
 }
+
+#artistList {
+    display: none;
+}
